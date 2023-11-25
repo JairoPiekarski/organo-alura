@@ -1,0 +1,14 @@
+.form{
+    background-color: #F6F6F6;
+    margin: 80px 160px;
+    padding: 32px 96px;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.form h2{
+    font-size: 32px;
+    color: #212121;
+    font-weight: 400;
+    font-family: 'Prata';
+}
